@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "broccoli-filter": "^0.1.6",
-    "regenerator": "git://github.com/mpd106/regenerator.git#export-default-support"
+    "regenerator": "git://github.com/mpd106/regenerator.git#export-default-async-await"
   },
   "devDependencies": {
     "broccoli": "^0.7.2",
